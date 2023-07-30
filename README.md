@@ -21,4 +21,3 @@ To run with your desired port
 > npx serve -p [PORT_NUMBER]
 
 Junex
-bleh!
