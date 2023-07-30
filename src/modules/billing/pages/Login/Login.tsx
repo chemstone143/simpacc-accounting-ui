@@ -70,7 +70,7 @@ export const Login: React.FC = () => {
             src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/logo.svg"
             alt="logo"
           />
-          Zirkels
+          Sample Login
         </a>
         <Formik
           validationSchema={LoginvalidationSchema}
